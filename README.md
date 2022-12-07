@@ -108,7 +108,7 @@
 <br/>
 
   <p align="center">
-<img  align="center" alt="anuragpandey7 Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuragpandey7&theme=dracula" alt="img" /></p>
+<!-- <img  align="center" alt="anuragpandey7 Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuragpandey7&theme=dracula" alt="img" /></p> -->
   
   <br>
   <br>

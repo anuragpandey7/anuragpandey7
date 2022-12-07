@@ -103,12 +103,12 @@
 <br/>
 <br/>
 
-<a href="https://github.com/anuragpandey7/github-readme-activity-graph"><img alt="anuragpandey7 Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=anuragpandey7&bg_color=0D1117&color=5BCDEC
+<a href="https://github.com/anuragpandey7/github-readme-activity-graph"><img alt="anuragpandey7 Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=anuragpandey7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  
 <br/>
 <br/>
-
   <p align="center">
-<!-- <img  align="center" alt="anuragpandey7 Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuragpandey7&theme=dracula" alt="img" /></p> -->
+ <img  align="center" alt="anuragpandey7 Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuragpandey7&theme=dracula" alt="img" /></p> 
   
   <br>
   <br>
